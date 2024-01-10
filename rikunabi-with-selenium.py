@@ -122,7 +122,5 @@ def scrape_company_main_info(driver):
         'company_members': company_members
     }
 
-
-
 if __name__ == '__main__':
     main()
