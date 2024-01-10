@@ -123,5 +123,6 @@ def scrape_company_main_info(driver):
     }
 
 
+
 if __name__ == '__main__':
     main()
